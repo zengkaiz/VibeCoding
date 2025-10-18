@@ -5,6 +5,10 @@
 
 <br>
 
+![intro](./public/intro.png)
+
+<br>
+
 ## 介绍
 
 本次「Vibe Coding 实战课」由 AIFirst 和 [OpenBuild](https://openbuild.xyz/) 共同发起。通过系统化的学习和实战训练，理解 Vibe Coding 的概念和技巧，并将其转化为真正的开发能力。这不仅仅是一门课程，更是一次开发思维的全面升级。 [了解更多](https://mp.weixin.qq.com/s/ucyd7PB-TC_VUhpdNMdFaw)
@@ -30,6 +34,8 @@
     <img src="./public/register.jpg" alt="报名" width="600" />
 </div>
 
+<br>
+
 报名成功后打开课程链接：https://openbuild.xyz/learn/challenges/2080494935 点击 `Apply to Join` 按钮激活课程。（**会提醒登录网站，注意一定要使用报名时使用的邮箱登录**)
 
 <div align="center">
@@ -39,8 +45,10 @@
 
 然后会出现以下情况(可以刷新下页面)：
 
-- 1️⃣ 【Under review 】→ 后台审核中，耐心等待下或联系小助手(**微信：i599wen**)审核
-- 2️⃣ 【Applied】→ 审核通过啦，可正常观看课程
+1️⃣ 【Under review 】→ 后台审核中，耐心等待下或联系小助手(**微信：i599wen**)审核
+2️⃣ 【Applied】→ 审核通过啦，可正常观看课程
+
+<br>
 
 审核通过后，可以选择 `Chapters` 开始观看课程👇
 
