@@ -7,7 +7,7 @@
 
 ## 介绍
 
-本次「Vibe Coding 实战课」由 [AIFirst]() 和 [OpenBuild](https://openbuild.xyz/) 共同发起。通过系统化的学习和实战训练，理解 Vibe Coding 的概念和技巧，并将其转化为真正的开发能力。这不仅仅是一门课程，更是一次开发思维的全面升级。Web3。 [了解更多](https://mp.weixin.qq.com/s/ucyd7PB-TC_VUhpdNMdFaw)
+本次「Vibe Coding 实战课」由 AIFirst 和 [OpenBuild](https://openbuild.xyz/) 共同发起。通过系统化的学习和实战训练，理解 Vibe Coding 的概念和技巧，并将其转化为真正的开发能力。这不仅仅是一门课程，更是一次开发思维的全面升级。Web3。 [了解更多](https://mp.weixin.qq.com/s/ucyd7PB-TC_VUhpdNMdFaw)
 
 <br>
 
