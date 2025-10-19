@@ -11,13 +11,13 @@
 
 ## 介绍
 
-本次「Vibe Coding 实战课」由 AIFirst 和 [OpenBuild](https://openbuild.xyz/) 共同发起。通过系统化的学习和实战训练，理解 Vibe Coding 的概念和技巧，并将其转化为真正的开发能力。这不仅仅是一门课程，更是一次开发思维的全面升级。 [了解更多](https://mp.weixin.qq.com/s/ucyd7PB-TC_VUhpdNMdFaw)
+本次「Vibe Coding 实战课」由 AIFirst 和 [OpenBuild](https://openbuild.xyz/) 共同发起。通过系统化的学习和实战训练，理解 Vibe Coding 的概念和技巧，并将其转化为真正的开发能力。这不仅仅是一门课程，更是一次开发思维的全面升级。 [了解更多](https://mp.weixin.qq.com/s/wup2yheeZnRAPqbKaknt4w)
 
 <br>
 
 ## ⭐ 核心亮点 ⭐
 
-- ✅ 四位导师联合授课：集结 Cell 细胞、Panda、崔棉大师、张晋涛四位专家的独特经验
+- ✅ 五位导师联合授课：集结 Cell 细胞、Panda、崔棉大师、张晋涛、Wei 五位专家的独特经验
 - ✅ 覆盖完整工作流：从AI工具链配置、Prompt 工程到大型项目管理
 - ✅ 真实项目驱动：在实战中掌握解决十大卡点的系统方法
 - ✅ 开发者社群支持：与同行持续交流，获得导师针对性指导
@@ -117,7 +117,7 @@
 
 每个课程章节对应一个 **task**，共六章对应 task1-task6, 可以在 [tasks](./tasks) 文件夹中复制对应的章节 task1-6 到你的文件夹 `students/YourName` 中，然后完成作业并提交 PR(如果作业包含多个文件，可以以文件夹的形式命名task1-6)。 **注意：不要修改别人文件夹的内容。**
 
-提交时限：2025年10月14日 - 10月30日
+提交时限：2025年10月14日 - 10月28日
 
 <br>
 
