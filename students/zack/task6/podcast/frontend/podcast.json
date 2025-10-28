@@ -1,0 +1,3551 @@
+{
+  "props": {
+    "pageProps": {
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "648982ea3fa1af37d71277dd",
+        "title": "花样更年华",
+        "author": "喵啊啊喵儿姐",
+        "brief": "“来，和三个漂亮姐姐贴贴。”",
+        "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+        "subscriptionCount": 4642,
+        "image": {
+          "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+          "width": 1440,
+          "height": 1440,
+          "format": "jpeg",
+          "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+          "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+          "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+          "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+        },
+        "color": {
+          "original": "#d76180",
+          "light": "#D76180",
+          "dark": "#D76180"
+        },
+        "hasTopic": true,
+        "topicLabels": ["ALL"],
+        "syncMode": "SELF_HOSTING",
+        "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+        "subscriptionStatus": "OFF",
+        "subscriptionPush": false,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "episodeCount": 119,
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          },
+          {
+            "name": "AI_SUMMARIZE_EPISODE",
+            "status": "DENIED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "isCustomized": false,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "62fc6e5cedce67104adb7319",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                "width": 132,
+                "height": 132,
+                "format": "jpeg"
+              }
+            },
+            "nickname": "喵啊啊喵儿姐",
+            "isNicknameSet": true,
+            "bio": "糖蒜的喵啊啊 ",
+            "gender": "FEMALE",
+            "isCancelled": false,
+            "ipLoc": "北京",
+            "readTrackInfo": {}
+          },
+          {
+            "type": "USER",
+            "uid": "648acc4fedce67104aa3708e",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                "width": 3000,
+                "height": 3000,
+                "format": "jpeg"
+              }
+            },
+            "nickname": "赵小妮儿",
+            "isNicknameSet": true,
+            "bio": "",
+            "gender": "FEMALE",
+            "isCancelled": false,
+            "ipLoc": "北京",
+            "readTrackInfo": {}
+          },
+          {
+            "type": "USER",
+            "uid": "63f79d4bedce67104a0cccc7",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                "width": 132,
+                "height": 132,
+                "format": "jpeg"
+              }
+            },
+            "nickname": "端端_端姐",
+            "isNicknameSet": true,
+            "bio": "",
+            "gender": "FEMALE",
+            "isCancelled": false,
+            "ipLoc": "广东",
+            "readTrackInfo": {}
+          }
+        ],
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechat",
+            "name": "huageng2023",
+            "note": "加听友群"
+          },
+          {
+            "type": "email",
+            "name": "109030424@qq.com",
+            "note": "商务合作"
+          },
+          {
+            "type": "custom",
+            "name": "小红书",
+            "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+          }
+        ],
+        "playTime": 221741988,
+        "showZhuiguangIcon": true,
+        "episodes": [
+          {
+            "type": "EPISODE",
+            "eid": "68ff9f88083a71a4eb86fa57",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：109 顶级特工的极限四十八小时。",
+            "description": "我们开启了一个新的系列，系列名字由你来定。\n本期主播：录节目录得泪眼婆娑又热血沸腾的喵儿姐/小妮儿\n一个新的系列开启了，在这个系列中，我们将着重介绍为了我们现在的幸福生活而隐姓埋名，战斗在隐蔽战线的英雄们的故事，今天的第一期，我们就从传奇的顶尖特工“龙潭三杰”开始。\n我们选取了1931年那一场因为一个机要人物顾顺章的叛变，险些导致刚成立不久的中国共产党遭遇灭顶之灾的那次大危机，在那生死存亡的四十八小时里，“龙潭三杰”，尤其是其中的钱壮飞前辈是如何力挽狂澜，书写历史的。\n补充信息：何为“龙潭三杰”？\n龙潭三杰指钱壮飞、李克农、胡底三位早期中国共产党地下工作者，他们在国民党统治区从事情报工作，为中共中央安全作出重大贡献。 \u200c\n钱壮飞\n钱壮飞（1895—1935年），浙江湖州人，1929年底打入国民党党务调查科，1931年4月及时传递顾顺章叛变情报，避免中共中央机关暴露。长征期间任红军总政治部副秘书长，1935年牺牲。2009年被列为“100位为新中国成立作出突出贡献的英雄模范人物”之一。 \u200c\n李克农\n李克农（1899—1962年），安徽巢湖人，曾任红一方面军政治保卫局局长、中共中央联络局局长。解放战争时期任中共中央社会部部长，新中国成立后任外交部副部长、解放军副总参谋长等职，1955年被授予上将军衔。 \u200c\n胡底\n胡底（1905—1935年），安徽舒城人，早期参与情报工作，为红军侦察兵、戏剧作家。在国民党统治区从事兵运工作，1935年牺牲于上海。 \u200c\n他们三人在当时一个在南京担任要职，一个留守上海主持工作，一个去天津担任“长城通讯社”社长，从而形成遥相呼应的铁三角。\n龙潭三杰在关键时刻，因为有了“铁三角”的努力，中共中央得以保全。可以说，如果没有龙潭三杰，中国共产党的历史将被改写。\n周恩来总理曾评价：“他们三个人深入龙潭虎穴，可称为‘龙潭三杰’。” \u200c\n补充信息：顾顺章\n顾顺章（1904-1935年6月），又名顾凤鸣，化名黎明、张华、化广奇。1904年生于原江苏省宝山县（今属上海）顾村乡白杨村一个农民家庭， 中国共产党的叛徒，曾任中共中央政治局委员、中共中央政治局候补委员、中央特科负责人，1931年在武汉被捕叛变，给中共造成严重危害。 1935年6月，顾顺章被秘密处死于苏州监狱。\n我们都说幸福生活来之不易，到底是怎么来之不易，生活在和平年代的我们并不能完全感同身受，希望先辈们的故事能让我们都有所领悟，珍惜这来之不易的幸福生活。\n最后，我们正式来征集这个系列的名称，如果被采纳，我们也会向帮我们取名字的朋友奉上小小的礼物作为感谢，请大家踊跃参与！\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝我们都惜福。",
+            "shownotes": null,
+            "duration": 5623,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FrNcTEA1Kh_xP0u1jkBtzgHVNlDK.png",
+              "width": 1188,
+              "height": 1188,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FrNcTEA1Kh_xP0u1jkBtzgHVNlDK.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FrNcTEA1Kh_xP0u1jkBtzgHVNlDK.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FrNcTEA1Kh_xP0u1jkBtzgHVNlDK.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FrNcTEA1Kh_xP0u1jkBtzgHVNlDK.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/limb2BbRU2oWKH22P2gKyxXj47zy.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/limb2BbRU2oWKH22P2gKyxXj47zy.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/limb2BbRU2oWKH22P2gKyxXj47zy.m4a",
+              "size": 91026665,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/limb2BbRU2oWKH22P2gKyxXj47zy.m4a"
+              }
+            },
+            "playCount": 91,
+            "clapCount": 1,
+            "commentCount": 0,
+            "favoriteCount": 1,
+            "pubDate": "2025-10-27T23:30:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/limb2BbRU2oWKH22P2gKyxXj47zy.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68f6610f456ffec65eb677b5",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：108 当他人的恶意向我们扑来，无视，自保还是反击？",
+            "description": "如果你因为这期节目感受到了冒犯，啊，就说你呢。\n本期主播：憋了一肚子话的端端/喵儿姐/小妮儿\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n这期节目属于一期忍无可忍无需再忍的不吐不快。\n事情发生在前几期节目里，我们因为针对当时的一个网络事件发表了几句评论，于是收到了一些明显带着偏颇和恶意的评论。\n经过讨论，我们决定专门做一期节目，一是回应一下，二是对于一些乱象说出自己的看法。\n本期节目有点儿开火儿，但也没开太大，能通乳腺，不过可能就通了一半儿。\n说白了还是有点儿太要脸。\n我们针对前一段时间争议巨大的网络事件——一个女孩和一个电竞选手的交往引起的讨论，根据评论中表现出的巨大恶意表达了自己的想法。\n同时分析了一下为什么会有那么多人会同时表现出自己“恶”的一面，而且还可能根本不自知。\n我们还讨论了一个问题：在什么情况下，面对别人的恶意，我们可以一笑置之，在什么情况下就需要奋起反击，这也许是个挺不好掌握的点，也许每个人都有每个人的标准，也希望听到这期的朋友们都能来说说自己的标准和底线。\n最后，节目中提到的那本《乌合之众》，也推荐大家都去看一看，时时刻刻提醒自己，不要在群体中迷失自我，尽量保持清醒， 保持判断力，虽然这其实很难做到，但是我们起码不要成为戕害别人的帮凶。\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝我们都善良。",
+            "shownotes": null,
+            "duration": 6816,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FkFzG04X7K-ob4H5n52DAEMh5gez.png",
+              "width": 1188,
+              "height": 1188,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FkFzG04X7K-ob4H5n52DAEMh5gez.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FkFzG04X7K-ob4H5n52DAEMh5gez.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FkFzG04X7K-ob4H5n52DAEMh5gez.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FkFzG04X7K-ob4H5n52DAEMh5gez.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lgvYgZYSey79HBJbDuEfZEIYgeHT.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/lgvYgZYSey79HBJbDuEfZEIYgeHT.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/lgvYgZYSey79HBJbDuEfZEIYgeHT.m4a",
+              "size": 110338617,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lgvYgZYSey79HBJbDuEfZEIYgeHT.m4a"
+              }
+            },
+            "playCount": 574,
+            "clapCount": 62,
+            "commentCount": 36,
+            "favoriteCount": 8,
+            "pubDate": "2025-10-20T23:30:00.711Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8e84991e2ee6084b5eb1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/lgvYgZYSey79HBJbDuEfZEIYgeHT.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68e288198e321a0d6f03f6cf",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：106 神界现眼包 | 月亮上为什么有兔子？",
+            "description": "咱中国的兔子在月亮上捣药，他们墨西哥的兔子在月亮上开party\n本期主播：过完这辈子都不想再回来当人的端端/喵儿姐/小妮儿\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n大家中秋的月饼都吃完了嘛？肯定没有。月饼炒青椒了解一下。\n我们都知道咱们中国的月亮上有个兔子，它在上面捣一种长生不老药叫做蛤蟆丸，其实不光是中国，世界上很多国家的月亮上都有一个兔子。\n从现代人的角度来解释，我们站在地球上，抬头看月亮的时候，会看到月亮上有一些阴影，有的阴影的形状像个兔子，于是古人就把兔子安排在了月亮里。\n但是凡事都有个因果，在古代的神话传说中，兔子到底是怎么到了月亮上的？\n嘿，那可是，可歌可泣。\n而且不光是咱们中国神话可歌可泣，其他那些有兔子的月亮上的兔子是怎么来的故事都很可歌可泣，有的甚至很可气。\n本期我们提到了中国，日本，朝鲜月亮上的兔子，提到了印度佛教故事里月亮上的兔子，提到了阿兹特克文明中月亮上的兔子——说到这个，他们的兔子过得可太开心了。\n我们在节目中提到了墨西哥著名的龙舌兰酒的原料——龙舌兰。\n龙舌兰有女神和男神，分别长这样：\n这是龙舌兰女神玛雅韦尔\n嗯，是的，这是女神。\n这是龙舌兰男神帕特卡特\n这是他们的孩子：四百只喝醉的兔子。\n听完这个故事的喵儿姐夫说：应该请他们给不孕不育医院代言。\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝大家都能经常在月光下开心地开party",
+            "shownotes": null,
+            "duration": 5459,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FgUb2EGWE2oYCbl1kbAdYbvp4TDI.png",
+              "width": 1188,
+              "height": 1188,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FgUb2EGWE2oYCbl1kbAdYbvp4TDI.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FgUb2EGWE2oYCbl1kbAdYbvp4TDI.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FgUb2EGWE2oYCbl1kbAdYbvp4TDI.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FgUb2EGWE2oYCbl1kbAdYbvp4TDI.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lqK7Sa3D9oBgdceJppc4RjhbCxS2.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/lqK7Sa3D9oBgdceJppc4RjhbCxS2.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/lqK7Sa3D9oBgdceJppc4RjhbCxS2.m4a",
+              "size": 88370433,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lqK7Sa3D9oBgdceJppc4RjhbCxS2.m4a"
+              }
+            },
+            "playCount": 448,
+            "clapCount": 1,
+            "commentCount": 12,
+            "favoriteCount": 3,
+            "pubDate": "2025-10-06T16:00:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8f0ccab6086ec152cde5",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/lqK7Sa3D9oBgdceJppc4RjhbCxS2.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68d17d96a56ca3e0c4bd81d8",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：105 在播客节被听友采访&叭叭1H录了20min",
+            "description": "弄的挺好播客节弄的挺好，就是录音没录全。\n本期主播：第一次全体出门搞交际的端端/喵儿姐/小妮儿\n本期串台主播：友台《安全出口》主播Lillian/Cecillia 友台《油条配咖啡》主播 雨白\n本期特地来采访我们的听友：研究女性主题的零零后男生 Shawn\n本期客串听友：班长小丢丢及她的儿\n本期打岔嘉宾：友台《安全出口》主播 老段\n特别感谢：从大连专程来找我们玩的 慢半拍不止\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n这期节目有点特殊，它分成两部分。\n第一部分是我们在弄的挺好播客节的外场，一个公开的场地里接受了Shawn的采访录音。\n对，是他采访我们。\n他在澳门读研究生，这次就是专门从澳门到北京来找我们，为了自己的研究生论文进行采访，主题就是“女性播客”。\n那你说说，采访我们能错得了么。\n我们坐在这次播客节的场地金台·共享际的院子里跟他聊了一小时，聊天的录音就在这期节目里奉上。\n因为是在外面，所以不可避免有一些环境杂音，不过也挺有现场感，大家不妨一听。\n第二部分是喵儿姐跟《安全出口》的两位女主播和《咖啡配油条》的女主播四个人参与本次播客节的一个串台环节的录制音频，但是遗憾的是，四个人带着二三十现场听众嘎嘎聊了一个小时，结果现场因为卡的容量问题，只录上了二十分钟，喵儿姐想来想去，还是决定把这二十分钟放出来，毕竟也是一次劳动（坚强地扭过脸去）。\n（教训是下次还是得用自己的卡。)\n但无论如何这是一次很有趣的聚会，北京的播客儿们难得一聚，在这两天的活动里彼此结识新朋友，不忘老朋友，开开心心，互相支持，共同创造了一个新的“播客元年”。\n最后，喊话罗德，我们想要一人一个interview pro\n感谢播客节组委会：拍脑门儿电台、安全出口、玲珑塔门市部、优斯迪吧、播客公社。\n一同感谢：飞书、罗德、RunningMan、松下、小宇宙、微博、微博音频、北平机器、连咖啡，以及所有来到现场以及正在收听本期节目的听众/听友/听户们对本届播客节的大力支持！\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝你弄什么都好，越弄越好！",
+            "shownotes": null,
+            "duration": 4857,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/Fsef0qVFpxYoh4q__LHRdd_pvDHF.png",
+              "width": 1188,
+              "height": 1188,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/Fsef0qVFpxYoh4q__LHRdd_pvDHF.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/Fsef0qVFpxYoh4q__LHRdd_pvDHF.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/Fsef0qVFpxYoh4q__LHRdd_pvDHF.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/Fsef0qVFpxYoh4q__LHRdd_pvDHF.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lr4L8xXNqXzUC8lam9hG-zKNXZUa.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/lr4L8xXNqXzUC8lam9hG-zKNXZUa.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/lr4L8xXNqXzUC8lam9hG-zKNXZUa.m4a",
+              "size": 78637735,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lr4L8xXNqXzUC8lam9hG-zKNXZUa.m4a"
+              }
+            },
+            "playCount": 407,
+            "clapCount": 104,
+            "commentCount": 8,
+            "favoriteCount": 2,
+            "pubDate": "2025-09-22T23:30:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8e84991e2ee6084b5eb1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/lr4L8xXNqXzUC8lam9hG-zKNXZUa.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68c826332c82c9dcca8438ad",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：104 韩国三日游：逛吃逛吃，享受干净的城市以及被出租车骗钱。",
+            "description": "韩国男的怎么都变异了！\n本期主播：在韩国吃出小肚子的鸡蛋里的猕猴桃端端/小妮儿，在北京苦哈哈地搬家就想吃烤肉的喵儿姐。\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n端端和小妮儿去了趟韩国，呆了三天，吃了一百顿饭，见了几个朋友，被出租车坑了钱，在服装店差点儿跟店员打一架，逛了几个街，怀旧了二十多岁时的夜店，买了两个小吊带儿，喝了没意思的咖啡，乘兴而去，尽兴而归。\n开场即自称“高丽棒子”的韩国老北京哥哥。\n哥哥年轻的时候。\n追星盛况（视频截图）\n留着贴头皮发型的宽肩膀男生（视频截图）\n到埠第一顿大食代吃的130元的辣炒猪肉和青鱼干菜汤\n烤猪五花\n韩牛这顿，忘记说那个大酱汤熬米饭了，太好吃了！\n水芹菜火锅和生拌牛肉\n干净的街道蓝莹莹的天。\n铁道奶奶啤酒屋\n本期除了聊聊韩国的行程，我们还发散了好多话题，比如AI能不能取代人类（到底是怎么跳过去的！），还有花更小卖部接下来要做点儿什么生意，一个宽容的人应该以什么样的态度对待别人等等。\n还有一件很重要的事就是，我们在本周六9月20日将会在北京鼓楼的金台共享际参加第二届“弄的挺好”播客节，这是由我们的友台拍脑门儿电台主办的，小宇宙平台也有合作，大家可以在我们的小宇宙主页看到关于这次播客节的宣传横bar。\n想来找我们玩，就请关注我们在朋友圈和听友群里发的参与信息，期待能在播客节的现场看到大家。\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝大家都能跟活人谈恋爱。",
+            "shownotes": null,
+            "duration": 8315,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FqKtkASU-SdHbBHstHInOmlpmloT.png",
+              "width": 1125,
+              "height": 1125,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FqKtkASU-SdHbBHstHInOmlpmloT.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FqKtkASU-SdHbBHstHInOmlpmloT.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FqKtkASU-SdHbBHstHInOmlpmloT.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FqKtkASU-SdHbBHstHInOmlpmloT.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lvWmsgIxBbIpaSUwBe6-tbsjTojf.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/lvWmsgIxBbIpaSUwBe6-tbsjTojf.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/lvWmsgIxBbIpaSUwBe6-tbsjTojf.m4a",
+              "size": 134616755,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lvWmsgIxBbIpaSUwBe6-tbsjTojf.m4a"
+              }
+            },
+            "playCount": 951,
+            "clapCount": 0,
+            "commentCount": 20,
+            "favoriteCount": 5,
+            "pubDate": "2025-09-15T23:30:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8e84991e2ee6084b5eb1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/lvWmsgIxBbIpaSUwBe6-tbsjTojf.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68bbe7995faf3686594c705b",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：103 什么样的人更受欢迎？看看这里有你没有。",
+            "description": "糖饼儿里头没有糖你指望谁能爱吃啊！\n本期主播：聚是一团火的满天星端端/喵儿姐/赵小妮儿\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n本期节目讨论了一个大话题：如果想要受人欢迎，你需要具备哪些必要条件。\n小妮儿找了一些在各个文化各个语境下都通用的受欢迎的必备要素，喵姐：这部都照着我写的吗！\n你也可以对照对照，看看这些条件是不是也都是照着你写的。\n受欢迎的条件包括但不限于：\n03:04 真诚与可信赖\n06:23 温暖与友善\n22:02 能力与价值\n43:29 尊重不同观点，不强行说服他人\n47:17 情绪稳定\n1:04:49 认错和解决问题\n1:10:32 不要过度苛责自己\n1:21:11 糖饼里没有糖就别怪别人不爱吃\n1:24:45 不是变冷漠，而是变冷静\n1:34:25 设好边界\n1:43:03 我可能就是别人因果play里的一环\n最后我们想说，希望在一个群体里受到欢迎，是一个人的本能需求，但也不排除有的朋友对“受欢迎”这件事其实并不感冒，甚至希望远离人群，这也都是很正常的事情。毕竟世界那么大，不可能大家都是一个想法。\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝你在这个奇怪的世界得到真正的快乐和自在。",
+            "shownotes": null,
+            "duration": 6658,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FoZWo1Eti98ReQhnL9_uOPb2CtIh.png",
+              "width": 1313,
+              "height": 1313,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FoZWo1Eti98ReQhnL9_uOPb2CtIh.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FoZWo1Eti98ReQhnL9_uOPb2CtIh.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FoZWo1Eti98ReQhnL9_uOPb2CtIh.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FoZWo1Eti98ReQhnL9_uOPb2CtIh.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lpCvVg-DS1f8iLaPoRKNq4r4n06w.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/lpCvVg-DS1f8iLaPoRKNq4r4n06w.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/lpCvVg-DS1f8iLaPoRKNq4r4n06w.m4a",
+              "size": 107786313,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lpCvVg-DS1f8iLaPoRKNq4r4n06w.m4a"
+              }
+            },
+            "playCount": 814,
+            "clapCount": 0,
+            "commentCount": 21,
+            "favoriteCount": 6,
+            "pubDate": "2025-09-08T16:00:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8e84991e2ee6084b5eb1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/lpCvVg-DS1f8iLaPoRKNq4r4n06w.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68ab2ca9293471fed43bac35",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：102 填满一间空屋子需要多长时间？",
+            "description": "本期是喵儿姐的独角戏，为你介绍几个很棒的纪录片，宋庄的美食和咖啡，还有昌平区延寿镇北庄村的乡村风情。\n本期主播：整个夏天都在搬家的喵儿姐\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n一语成谶，前几期刚聊了一次搬家，没多久，喵儿姐就开始了又一次搬家大计。\n一整个夏天，都在做这一件事。\n在节目上线的时候，喵儿姐在通州区宋庄镇的家已经搬空了，不出意外，过不了两天就要搬到昌平区延寿镇去了。\n因为最近一段时间三个主播都很忙，没办法聚齐录音，为了不让节目开天窗，我们决定各自为战，毕竟聚是一团火散是满天星嘛。前两期小妮子和端姐都各自采访了很有意思的嘉宾，也聊了很多很有意义又有趣的话题，喵儿姐没时间找合适的嘉宾，那就自己来一期独角戏好了。\n节目的开头是喵儿姐录的一段儿搬家实录，也是巧了，一夏天搬了那么多东西，打了那么多包，装了那么多车，就录音这次也不知怎么了，咣啷啷哗啦啦，倒了一个货垛，一个超级重的书架子直直拍在了地上，打碎了一个种着海棠的大花盆儿。\n但好在损失也只有这一个本来也没想带走的花盆。\n本期节目内容还是有点儿丰富的，除了聊了聊搬家的事儿以外，还推荐了几个B站能看的纪录片：\n来自英国BBC的《我死前的最后一个夏天》（The last summer）\nB站自制的《守护解放西》，温馨提示：请开着弹幕看。\n《但是还有书籍》，这个可以不开弹幕，因为本来就催泪，有了弹幕更容易忍不住。\n《养猫的人》，第一集就有刀，做好心理准备。\n然后还推荐了几个宋庄好吃好喝的地方：\n在松美术馆院儿里的Goodies好嘢\n东北菜馆上山下乡\n哪儿的菜都有的苹果树下\n姐们儿的店洋遇\n另一个姐们儿的店秀娥泰厨房\n喵儿姐曾经办过展的宋庄最网红咖啡馆HK+\n以及名字奇奇怪怪味道可可爱爱的面包店五花商店\n宋庄的餐饮都很在线，如果要来玩的话，除了这几家还有很多都很值得尝试。\n虽然喵儿姐要搬走了，但是还是欢迎大家来宋庄探索好吃的好喝的。\n最后介绍了即将要去的，目测也会很快成为游客打卡大热门的昌平去延寿镇北庄村，那里的山看起来蛮灵额，那里的民风也依然很淳朴——没人在家也不锁门，那里还有很多可爱的小馆子小店铺，最重要的是，那里还有我们糖蒜广播的带头大哥Demone。\n就要开始新的生活了，喵儿姐表示很期待。\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝你们每天都有收获，想要的都能实现。\n最后，因为总有朋友在节目评论区问BGM，从本期开始附上BGM歌单：\n朴树《生如夏花》\n林子祥《人生》\n海因茨·西蒙丝Heintje Simons《夏日最后一朵玫瑰》Letzte Rose im Sommer\n周云蓬《春歌》\n金海心《猫咪森林》\n陶云圣·张云雷·郭德纲《画扇面》\n马志明·杨少华《地理图》\n小娟&山谷里的居民《山谷里的居民》\nMr.Miss《明天的烦恼交给明天》\n彩虹合唱团《想要的一定实现》",
+            "shownotes": null,
+            "duration": 3297,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FgpyDL12CWd9cRu3Br_lK68BN2gI.png",
+              "width": 1313,
+              "height": 1313,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FgpyDL12CWd9cRu3Br_lK68BN2gI.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FgpyDL12CWd9cRu3Br_lK68BN2gI.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FgpyDL12CWd9cRu3Br_lK68BN2gI.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FgpyDL12CWd9cRu3Br_lK68BN2gI.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/luylOMAt7LOZYP9uv76APQt2clAr.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/luylOMAt7LOZYP9uv76APQt2clAr.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/luylOMAt7LOZYP9uv76APQt2clAr.m4a",
+              "size": 53382567,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/luylOMAt7LOZYP9uv76APQt2clAr.m4a"
+              }
+            },
+            "playCount": 570,
+            "clapCount": 17,
+            "commentCount": 37,
+            "favoriteCount": 2,
+            "pubDate": "2025-08-25T23:30:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8e84991e2ee6084b5eb1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/luylOMAt7LOZYP9uv76APQt2clAr.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68a2ab85293471fed42700b2",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：101在一旅游胜地过了十年正经日子（是什么体验）",
+            "description": "泰国还安全吗？吃喝玩乐还有什么新鲜的吗？在一旅游胜地生活了十年到底有意思吗？\n本期主播：苏梅岛五年居民端端\n本期嘉宾：苏梅岛十年居民刘明彻\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n本期是端姐独自挑大梁的一期，她跟自己在泰国苏梅岛的好邻居好朋友聊了聊。\n这位好朋友叫做刘明彻，北京人，曾经是个摄影师，在泰国苏梅岛生活了十年，在那儿开民宿，也帮端姐拍摄服装的卖家秀，大家看到端姐的美照多出自他手。\n以下我们看到的这些泰国各个地方的美照也多出自他手。\n这一期的主题就是：生活在别人的旅游胜地，泰国海岛上，究竟是个什么感受。\n曼谷飞苏梅为什么机票那么贵？\n苏梅附近有什么好玩的？\n在泰国十年，老刘到底探秘了多少隐藏景点？\n吃榴莲怎么能不上火？\n日落最美的海滩在哪里？\n泰国现在到底还安全不安全？\n请泰国工人干活儿有多起急？\n在泰国最危险的情况是在大马路上。\n到苏梅岛玩儿怎么选酒店民宿？\n哪个海滩最适合你？\n什么季节最舒服？\n本期一次全部解惑。\n最后，请看端姐小区保安的小猫：Landy\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝你想玩就玩，猛猛花钱！",
+            "shownotes": null,
+            "duration": 5783,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FsbhsKB3oB7G6CldZ8ltWY-KawDe.png",
+              "width": 1313,
+              "height": 1313,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FsbhsKB3oB7G6CldZ8ltWY-KawDe.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FsbhsKB3oB7G6CldZ8ltWY-KawDe.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FsbhsKB3oB7G6CldZ8ltWY-KawDe.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FsbhsKB3oB7G6CldZ8ltWY-KawDe.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/loHR7pyeL6K1l0htfFasfFqvXSu_.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/loHR7pyeL6K1l0htfFasfFqvXSu_.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/loHR7pyeL6K1l0htfFasfFqvXSu_.m4a",
+              "size": 93631424,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/loHR7pyeL6K1l0htfFasfFqvXSu_.m4a"
+              }
+            },
+            "playCount": 974,
+            "clapCount": 7,
+            "commentCount": 24,
+            "favoriteCount": 10,
+            "pubDate": "2025-08-18T23:30:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8ed23d5d24e9cba161a1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/loHR7pyeL6K1l0htfFasfFqvXSu_.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "689a0e8e20a2906a4d09c2ce",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：100 九交贵人十养生",
+            "description": "夏天过去了，在这个秋天好好养养自己吧！\n本期主播：夏天把自己燥够呛的赵小妮儿一人儿\n本期嘉宾：年轻的道医朝辉返场了！\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n节目里提到的玫瑰花也可以找到。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n节目来到第一百期，只有赵小妮儿一人儿独挑大梁，在端姐和喵儿姐都因为家里的事儿无法脱身的时候，她和我们的新朋友，年轻的道医朝辉一起为大家推荐了一些在这个秋天从内到外好好养自己的方法。\n为什么说是“在这个秋天”呢？我们都知道，每年春夏秋冬虽然是在更替，有冷有热，但不同的年份的四季又有不同的表现，比如今年就有些“金气不足”，这个秋天又来了一位名叫“湿土”的“客人”。\n这是什么意思？这些特殊元素会让这个秋天呈现什么样子？对我们的身体和精神又造成了什么影响？让我们来听听朝辉怎么解释，又有什么样的具体建议。\n话说一名二运三风水，四积阴德五读书，六名七相八敬神，九交贵人十养生。这十件事儿，可以说就是一个人一辈子要做的功课，还记得上期朝辉说过，身体调理好了，也有可能能帮助改变命运，养生虽然排在第十位，但却是一个人第一容易做到的事儿。\n这到底怎么解释？最开始的前言部分就进行了充分的阐述，听明白了这一趴，再往后听具体衣食住行的方法，然后照着做，希望能在这个秋天带给你从内而外的滋养。\n同时附赠一个通过头像招财的小技巧，大家不妨一听。\n最后，如果对节目中提到的香包和玉肌粉感兴趣，也可以来跟我们咨询。\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝你身心舒畅，多财多福。",
+            "shownotes": null,
+            "duration": 3938,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FoiPmi8dvstFXEeFABAYyJRnUB3R.png",
+              "width": 1313,
+              "height": 1313,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FoiPmi8dvstFXEeFABAYyJRnUB3R.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FoiPmi8dvstFXEeFABAYyJRnUB3R.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FoiPmi8dvstFXEeFABAYyJRnUB3R.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FoiPmi8dvstFXEeFABAYyJRnUB3R.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/ltIAZjdHvjkns55QjHoQmtIQIK22.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/ltIAZjdHvjkns55QjHoQmtIQIK22.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/ltIAZjdHvjkns55QjHoQmtIQIK22.m4a",
+              "size": 63753819,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/ltIAZjdHvjkns55QjHoQmtIQIK22.m4a"
+              }
+            },
+            "playCount": 1030,
+            "clapCount": 5,
+            "commentCount": 21,
+            "favoriteCount": 6,
+            "pubDate": "2025-08-11T23:30:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8ed23d5d24e9cba161a1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/ltIAZjdHvjkns55QjHoQmtIQIK22.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "689051c28e06fe8de7354e01",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：099 骑着骑着车差点儿报警抓自己",
+            "description": "去骑车吧！记得认道儿！\n本期主播：即将搬家到北京骑行圣地昌平山里的喵儿姐/爱上骑行爱上北京更爱自己的赵小妮儿\n感谢我们的优秀听友小洋同学为丹妮创作了封面的这幅漫画。\n他为我们每期的嘉宾都创作漫画，也给我们画过不少，属实是一位又有趣又有才能的朋友，我们很欣慰。\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n从突然开始骑车，到不管天儿多热也忍不住要骑车出门，赵小妮儿也就用了一个月时间。\n本期录音那天赵小妮儿就是骑车去的录音棚，路上就给自己提供了一个大素材：她把自行车骑到了四环主路上。\n从上面这张图可以看到她的骑行路线，具体是怎么办到的，还是听听她自己怎么说。\n（真的差点儿打了交警电话）\n（这是错误示范大家绝对不要效仿）\n当然骑车给丹妮带来的好处还是更多的，她更健康了，更开心了，更有时间跟自己独处了，而且在骑行过程中反复爱上北京这座城市。\n本期节目丹妮好好讲了讲自己是怎么开始骑行的，在整个过程中遇到了什么有趣的人事物，去了哪里玩，吃了什么好吃的，又有什么奇遇。\n以及对北京的交通又有了什么更加深刻的认识。\n当然还有一些美美的出片儿。\n你看看这后背！\n“多看了你一眼”名场面\n什么都没有的小白车\n节目里提到的亮马河上的餐厅叫做Barcarolle，这是一个意大利语单词，也是一个音乐术语，是“船歌”的意思，她说这个餐厅可以俯瞰整个亮马河，那么叫这个名儿就挺对。\n另外她还推荐了一个骑行有好的餐厅就是靠山Caution，我们曾经采访过它的老板陈铭，属于是亲友店了这是。\n节目中的BGM选自丹妮的朋友自己的电台JCM，不仅是骑行，运动的时候都可以听一听。\n最后感谢声湃为我们提供录制场地！\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝大家都能找到自己喜欢的爱好，也都能找到自己的同好！",
+            "shownotes": null,
+            "duration": 9026,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FlEZmhcWypGf3lFT0Mo0pQBZCoqB.png",
+              "width": 1313,
+              "height": 1313,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FlEZmhcWypGf3lFT0Mo0pQBZCoqB.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FlEZmhcWypGf3lFT0Mo0pQBZCoqB.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FlEZmhcWypGf3lFT0Mo0pQBZCoqB.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FlEZmhcWypGf3lFT0Mo0pQBZCoqB.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lhK0Q5jvmxqVoZtP0XE1Uei9vmVd.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/lhK0Q5jvmxqVoZtP0XE1Uei9vmVd.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/lhK0Q5jvmxqVoZtP0XE1Uei9vmVd.m4a",
+              "size": 146121888,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lhK0Q5jvmxqVoZtP0XE1Uei9vmVd.m4a"
+              }
+            },
+            "playCount": 598,
+            "clapCount": 0,
+            "commentCount": 19,
+            "favoriteCount": 4,
+            "pubDate": "2025-08-04T16:00:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8e84991e2ee6084b5eb1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/lhK0Q5jvmxqVoZtP0XE1Uei9vmVd.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "6887463a8e06fe8de7178ef4",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：098 人生得意须尽欢，只怕疯得还不够。",
+            "description": "让我们欢迎我们糖蒜广播的老朋友作家丁丁张带着他的新书《强光直射》再次来和我们聊天！\n本期主播：外表和内心很不一致的端姐/炫夫狂魔喵儿姐/强光本光，不揉沙子的丹妮。\n本期嘉宾：我们的老朋友，作家、编剧、词作家、综艺节目主持人丁丁张。\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n这是丁丁张的新书《强光直射》，看起来是一本挺温暖的书，其实写的是一个发生在冬天，有点儿冷的故事。但是通篇读下来，却又让人觉得挺暖和。\n这是这本书里附赠的贴纸，上面强调了这本书里的一个关键词：发疯。\n这年头谁没发疯过，一次发疯换来的可能是终身内向，也可能是一直发疯一直爽，端看你有没有能力应对发疯之后的后果。\n在这个故事里，女主角发疯的后果是把一位空心人男主角的心又填满了些。\n所以尽管故事看起来有点儿冷，看完后还是会让人觉得暖暖的。\n本期节目就从“发疯”这个关键词开始漫谈开去，聊了很多关于人和人之间关系的话题。\n丁丁张是个表面犀利，出口成梗，却又内心温柔，相当善良的一个人，这点从他所有的作品里都能看出来，这本最新的《强光直射》虽然把人的阴暗面全都暴露在了“强光”下无所遁形，但依然为它们笼罩了一层温情的薄纱。\n夏天那么热，希望我们这期节目和他的这本书可以为你内心的焦灼带来一点清新的抚慰。\n京东或者当当搜索“强光直射 丁丁张”就可以找到这本书啦~\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝你一直发疯一直爽。",
+            "shownotes": null,
+            "duration": 6607,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FtW5QICdnOqJRJPPp3dsmyOp7QVK.png",
+              "width": 1250,
+              "height": 1250,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FtW5QICdnOqJRJPPp3dsmyOp7QVK.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FtW5QICdnOqJRJPPp3dsmyOp7QVK.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FtW5QICdnOqJRJPPp3dsmyOp7QVK.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FtW5QICdnOqJRJPPp3dsmyOp7QVK.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/li0hV3eAqWHoVVB0ABh3072EE5oM.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/li0hV3eAqWHoVVB0ABh3072EE5oM.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/li0hV3eAqWHoVVB0ABh3072EE5oM.m4a",
+              "size": 106968248,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/li0hV3eAqWHoVVB0ABh3072EE5oM.m4a"
+              }
+            },
+            "playCount": 708,
+            "clapCount": 5,
+            "commentCount": 4,
+            "favoriteCount": 5,
+            "pubDate": "2025-07-28T23:30:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8ed23d5d24e9cba161a1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/li0hV3eAqWHoVVB0ABh3072EE5oM.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "687e1624a12f9ff06a455bcf",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：097 戏剧人刘霓霓，凭什么你想干什么就能干什么呢？",
+            "description": "今天让我们来向一位活了半辈子依然恣意洒脱的戏剧制作人、导演、编剧、演员刘霓霓发出灵魂质问：凭什么你想干什么就能干什么呢？\n本期主播：嘉宾刘霓霓的老朋友端端/特适合演大奶奶的喵儿姐/想去动物园当海豚的赵小妮儿（不是）\n本期嘉宾：主播端端的老朋友戏剧人刘霓霓\n先说正经事：今天的嘉宾刘霓霓是一位戏剧人，即将在7月25日至7月27日在北京的世纪剧院小剧场上演自编自导自演的新戏《我只想要点春的诗意》。\n这部剧改编自老舍先生的长篇小说《离婚》，整部剧只有两个女演员：刘霓霓和屈爽，她们两个在剧中分别扮演七个角色。\n你琢磨琢磨这什么劲头儿。\n《我只想要点儿春的诗意》剧照。\n节目上线前的周日，我们三个已经在听友群里邀请了十位听众朋友和我们一起去看了这部剧的媒体场，大家的反响都很好，但空口白牙地夸毕竟不是我们的传统，咱们还是先听完我们这一期访谈，好好了解一下刘霓霓是个什么样的人，然后再决定要不要买票支持她的新作品吧！\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n这一期我们一直在嘎嘎笑，大家的兴致都很高，端姐和霓霓为了老友重逢而兴奋，喵儿姐和丹妮为了认识了一位有趣的新朋友而兴奋，丹妮更是为了成为了霓霓姐的锁门弟子而更加兴奋。\n这位姐，可以说是典型的“想干嘛就干嘛”，随心所欲，为所欲为。\n想跳舞就跳舞，想学花样游泳就学花样游泳，想玩儿就玩儿，想工作就当了海豚训练员，想上学就自学考上了中戏，想做话剧就做出来一部连演十年都受欢迎的话剧。\n她对自己的定位是：我知道我一定能做好，我干什么都能干好。\n不儿，这到底是哪儿来的底气啊？\n让我们来好好问问她！\n如果你听完这一期，想要去看看她的这不新作品，改编自老舍先生的小说《离婚》的《我只想要点儿春的诗意》，就请到大麦/猫眼/抖音 搜索《我只想要点儿春的诗意》 ，让我们在剧场共赴诗意吧！\n扫码购票/关注：\n猫眼\n大麦\n抖音\n微信\n另外记得加入我们花更的微信听友群，以后还有类似这样观影看戏聚会玩耍的机会，都会从群里征集报名哦。\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝你精神极大丰富，生活为所欲为。",
+            "shownotes": null,
+            "duration": 5047,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FrjtOppEkRvu5Gh3eFwpgUNM1DQn.png",
+              "width": 1313,
+              "height": 1313,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FrjtOppEkRvu5Gh3eFwpgUNM1DQn.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FrjtOppEkRvu5Gh3eFwpgUNM1DQn.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FrjtOppEkRvu5Gh3eFwpgUNM1DQn.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FrjtOppEkRvu5Gh3eFwpgUNM1DQn.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lvGiaImGbgD60QW87YSANuNcj2_c.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/lvGiaImGbgD60QW87YSANuNcj2_c.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/lvGiaImGbgD60QW87YSANuNcj2_c.m4a",
+              "size": 81712991,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lvGiaImGbgD60QW87YSANuNcj2_c.m4a"
+              }
+            },
+            "playCount": 313,
+            "clapCount": 2,
+            "commentCount": 4,
+            "favoriteCount": 2,
+            "pubDate": "2025-07-21T16:00:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8ed23d5d24e9cba161a1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/lvGiaImGbgD60QW87YSANuNcj2_c.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "687530c460f8f77d4080dd4f",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：096 “我一看你头像就知道你肩膀疼”年轻的道医对我说。",
+            "description": "本期的嘉宾是一位年轻的“道医”，是我们人气嘉宾玄学小王子昆鹏的好朋友。\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n本期节目里提到的玫瑰花在店里就有链接哦。\n本期主播：对身体高度重视的药罐子端姐/觉得自己哪儿哪儿都是毛病的喵儿姐/被一瓶藿香正气水放倒的小妮儿\n本期嘉宾：仅凭一个头像就看出有人肩膀疼的道医朝辉\n到底什么是道医？道医跟中医有什么区别？道医是道士还是医生？\n这到底是科学还是玄学？\n本期嘉宾，年轻的道医朝辉向我们普及了近一段时间喊得很响的“道医”这个概念，还讲了几个超出一般人认知的案例——比如远程扎针灸什么的。\n同时还在现场坐堂，通过望闻问的方式给三位主播分别看了看诊，还给出了一些简单实用的养生疗愈的方式，令我们相当受用。\n比如他说喵儿姐胖着挺好的不用减肥，喵儿姐可太开心了。\n本期虽然看似话题集中在在场的个案，但其实我们几个的体质和表现也可以代表一部分朋友，如果你有什么具体的问题想要跟朝辉交流，可以在小红书找他：无咎\n也可以公众号搜索：易医探索者\n听一听这位可爱又有趣的年轻医生的，希望能让大家都有收获。\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝你身体健康，心情开朗，多吃多睡多运动。",
+            "shownotes": null,
+            "duration": 6103,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FiTlbjxyS-sXH6jSN1HxE11Vr05d.png",
+              "width": 1313,
+              "height": 1313,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FiTlbjxyS-sXH6jSN1HxE11Vr05d.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FiTlbjxyS-sXH6jSN1HxE11Vr05d.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FiTlbjxyS-sXH6jSN1HxE11Vr05d.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FiTlbjxyS-sXH6jSN1HxE11Vr05d.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lrExga61cw2X9ofxiXbhfj22xuaJ.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/lrExga61cw2X9ofxiXbhfj22xuaJ.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/lrExga61cw2X9ofxiXbhfj22xuaJ.m4a",
+              "size": 98807256,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lrExga61cw2X9ofxiXbhfj22xuaJ.m4a"
+              }
+            },
+            "playCount": 1169,
+            "clapCount": 11,
+            "commentCount": 30,
+            "favoriteCount": 11,
+            "pubDate": "2025-07-14T23:30:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8ed23d5d24e9cba161a1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/lrExga61cw2X9ofxiXbhfj22xuaJ.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "686bbe9893fd2d72b8fad785",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：095 专访男装穿搭博主纳厮：规则之下寻找自由",
+            "description": "中年/男性/穿搭博主——听听，这是多么小众的语言。\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n本期主播：来不了萝莉风的端姐/爱搞成语接龙的喵儿姐/当博主当得直做噩梦的小妮儿\n本期嘉宾：能把老头儿背心儿穿成时尚单品的中年男性穿搭博主纳厮\n纳厮是端姐在刷视频的时候刷到的，一下子就被吸引了，他很有型，声音具有吸引力，视频做得好看，服装搭配得也好看。他是一个蒙古人，年轻时也是个摇滚青年，背着一军挎来到北京，从此摸爬滚打，当过互联网UI设计师，在人到中年时投身火热的互联网，在算法的支配下闯出了一条属于自己的“中年男性穿搭博主”之路。\n本期我们就跟这位有趣的男士聊一聊，依然属于是一个漫谈的性质，但是实际上也有着统一的主题，那就是：在无法抵抗的社会大规则下，我们如何能够找到属于我们的那份自由。\n我们聊到了穿搭，时尚，icon，聊到了育儿，男女对立，聊到了自己的困惑，家庭，迷茫和骄傲，也聊到了互联网，自媒体，算法和如何在算法的世界里坚持做自己——也可能根本做不了自己。\n这是一期四个中年人的对话，也没想着要跟听户儿友友们分享什么人生哲学，如果大家听了这期节目，会发现哦，原来这个世界上还有人是这样活着的，真有意思，原来还有人在无法打破的规则下，还在尽力寻找属于自己的那份自由，那就够了。\n我们聊了什么：\n00:00 老头儿背心儿让他一穿啊，就成了时尚单品了。\n07:05 蒙古人就爱大银子。\n08:06 啥叫油腻啊？我已经不太知道了。\n13:34 34岁那年，我突然发现其实我可在乎别人的看发了。\n17:02 我想穿西装。\n21:45 装逼就是我的工作。\n24:37 个儿矮怎么就不能穿的帅了？\n31:00 这是一个探索自己的过程。\n37:16 自卑还是自信，跟身高体型关系不大——那都是好用的借口。\n41:00 我女儿说：“那是你想的，我不想！”\n47:23 孩子是父母的镜子。\n50:03 男女之间真的有所谓的平等吗？\n01:01:47 在一个不平等的社会，既得利益者也会受到很多的戕害。\n01:07:55 在有限的社会属性里，你怎么能去找到属于你的那份自由？\n01:12:54 穿什么不重要，重要的是强烈的个人风格。\n01:16:29 最难得的是自我认同。\n01:22:30 手机一拿起来，嗓子就夹起来。\n01:24:00 当我想表达的不符合算法时，我就没有流量。\n01:28:58 “我给N人一个建议，要去做无用的事儿。”\n01:39:53 要不是逼到这儿了我也不想做呀！\n01:48:15 懒是刻在人类基因里的。\n找到纳厮：小红书纳厮\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝你在算法和规则的世界里保有自己的清醒，独立，快乐和自由。",
+            "shownotes": null,
+            "duration": 7120,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FupkdC5nuo6IJ1nBQSjmQLtASijP.png",
+              "width": 1375,
+              "height": 1375,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FupkdC5nuo6IJ1nBQSjmQLtASijP.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FupkdC5nuo6IJ1nBQSjmQLtASijP.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FupkdC5nuo6IJ1nBQSjmQLtASijP.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FupkdC5nuo6IJ1nBQSjmQLtASijP.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/ls6auXtZE72hPvJlC1NNtaRyy4mG.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/ls6auXtZE72hPvJlC1NNtaRyy4mG.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/ls6auXtZE72hPvJlC1NNtaRyy4mG.m4a",
+              "size": 115259377,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/ls6auXtZE72hPvJlC1NNtaRyy4mG.m4a"
+              }
+            },
+            "playCount": 492,
+            "clapCount": 2,
+            "commentCount": 6,
+            "favoriteCount": 2,
+            "pubDate": "2025-07-07T17:00:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "658a8ed23d5d24e9cba161a1",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/ls6auXtZE72hPvJlC1NNtaRyy4mG.m4a"
+            }
+          },
+          {
+            "type": "EPISODE",
+            "eid": "68626f7508d8fd8586bf394b",
+            "pid": "648982ea3fa1af37d71277dd",
+            "title": "Vol：094 十神：你的命运密码·从前有座山系列十",
+            "description": "比肩、劫财、正印、偏印、正官、七杀、正财、偏财、食神、伤官。这十个云里雾里的名词是怎么构成了我们的八字密码，影响了我们的性格命运的？\n本期主播：就爱撒钱的端姐/一身正气的喵儿姐/享受生活的小妮儿\n本期嘉宾：就怕跟正官打交道的玄学小王子昆鹏\n❤️【好消息】❤️\n花更小卖部“与花三友”开业了，现在已经上架了不少好东西，比如茶叶，书，洗发水，热敷袋，都上了。\n在微信小程序快团团搜索“与花三友”就可以看到啦！\n本期我们要普及关于八字里面“十神”的基础知识，这十个神在哪儿找呢？\n我们随便编了两个八字，现在把图放在这里，大家可以先看一下。\n软件用的是“问真”。\n可以看到这几行里有一行叫“主星”，代表的是你天干四个字的“神”，其中日柱上面的“元女”“元男”指的就是你自己和你的性别，下面那个天干上面的字儿就是你的命。\n比如这两位随机编出来的例子，他们一位是辛金，一位是庚金。\n而主星后面的另外三个词就是十神之三，预示着你广为人知的，表现出来的性格特征，从而也更多会影响——或者说决定——你的命运走向。\n毕竟性格决定命运嘛！\n而“副星”那一行里出现的名词就更多些，它们代表了你的“地支”，也就是隐藏起来的，不太为人知的性格特征，在今天的科普中也可以作参考，但更多还是参考天干的主星。\n有了这个前提的认知，现在可以打开查询软件，看看自己的的十个神都有什么，然后我们来听小王子挨个儿讲来。\n我们聊了什么：\n00:00 八字和十神怎么查询\n05:56 比肩：随时撒钱请吃饭\n22:18 劫财：看得上你就给你猛猛花钱\n36:15 正印：不惹祸不招事儿的好同学\n43:42 偏印：神神叨叨的应该当主播，并且难以取悦。\n01:03:40 正官：正官就是一杆秤\n01:12:39 七杀：不带七杀不灵巧\n01:33:54 正财：钱要一分一分地挣，有耕耘就会有收获。\n01:46:30 偏财：快乐一世是偏财\n02:00:22 食神：穷开心也是开心！\n02:08:46 伤官：有头脑有手段，改变规则的神！\n02:17:18 咱们来组织一个线上课吧！想跟小王子学更多的请在评论区举手！\n联系我们：\nWX：huageng2023\n公众号：花样更年华\nEmail：109030424@qq.com\n小红书：\n喵儿姐\n端姐\n小妮儿\n花样更年华\n微博：花样更年华\n祝你先天壮，后天强，一生富足无忧~",
+            "shownotes": null,
+            "duration": 8595,
+            "image": {
+              "picUrl": "https://image.xyzcdn.net/FsXP7nMZ5pqcWXDMoxWE7qvrHypG.png",
+              "width": 1313,
+              "height": 1313,
+              "format": "png",
+              "thumbnailUrl": "https://image.xyzcdn.net/FsXP7nMZ5pqcWXDMoxWE7qvrHypG.png@thumbnail",
+              "smallPicUrl": "https://image.xyzcdn.net/FsXP7nMZ5pqcWXDMoxWE7qvrHypG.png@small",
+              "middlePicUrl": "https://image.xyzcdn.net/FsXP7nMZ5pqcWXDMoxWE7qvrHypG.png@middle",
+              "largePicUrl": "https://image.xyzcdn.net/FsXP7nMZ5pqcWXDMoxWE7qvrHypG.png@large"
+            },
+            "enclosure": {
+              "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lhmqyDyFCiEz3BnF0ChXV_DoFrko.m4a"
+            },
+            "isPrivateMedia": false,
+            "mediaKey": "648982ea3fa1af37d71277dd/lhmqyDyFCiEz3BnF0ChXV_DoFrko.m4a",
+            "media": {
+              "id": "648982ea3fa1af37d71277dd/lhmqyDyFCiEz3BnF0ChXV_DoFrko.m4a",
+              "size": 139135687,
+              "mimeType": "audio/mp4",
+              "source": {
+                "mode": "PUBLIC",
+                "url": "https://media.xyzcdn.net/648982ea3fa1af37d71277dd/lhmqyDyFCiEz3BnF0ChXV_DoFrko.m4a"
+              }
+            },
+            "playCount": 2641,
+            "clapCount": 63,
+            "commentCount": 76,
+            "favoriteCount": 60,
+            "pubDate": "2025-06-30T16:00:00.000Z",
+            "status": "NORMAL",
+            "podcast": {
+              "type": "PODCAST",
+              "pid": "648982ea3fa1af37d71277dd",
+              "title": "花样更年华",
+              "author": "喵啊啊喵儿姐",
+              "brief": "“来，和三个漂亮姐姐贴贴。”",
+              "description": "气血不足，激情不小。耐心不多，人缘儿不错。素质不好讲，颜值没得说。",
+              "subscriptionCount": 4642,
+              "image": {
+                "picUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg",
+                "width": 1440,
+                "height": 1440,
+                "format": "jpeg",
+                "thumbnailUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@thumbnail",
+                "smallPicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@small",
+                "middlePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@middle",
+                "largePicUrl": "https://image.xyzcdn.net/FhHdUE5ypj2NutrGaTQyQEddAzwE.jpg@large"
+              },
+              "color": {
+                "original": "#d76180",
+                "light": "#D76180",
+                "dark": "#D76180"
+              },
+              "hasTopic": true,
+              "topicLabels": ["ALL"],
+              "syncMode": "SELF_HOSTING",
+              "latestEpisodePubDate": "2025-10-27T23:30:00.000Z",
+              "subscriptionStatus": "OFF",
+              "subscriptionPush": false,
+              "subscriptionPushPriority": "HIGH",
+              "subscriptionStar": false,
+              "status": "NORMAL",
+              "episodeCount": 119,
+              "permissions": [
+                {
+                  "name": "SHARE",
+                  "status": "PERMITTED"
+                },
+                {
+                  "name": "AI_SUMMARIZE_EPISODE",
+                  "status": "DENIED"
+                }
+              ],
+              "payType": "FREE",
+              "payEpisodeCount": 0,
+              "isCustomized": false,
+              "podcasters": [
+                {
+                  "uid": "62fc6e5cedce67104adb7319",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM",
+                      "middlePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FqvvBZCMUHKHYroyFCBKpFJW69aM@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "喵啊啊喵儿姐",
+                  "isNicknameSet": true,
+                  "bio": "糖蒜的喵啊啊 ",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "648acc4fedce67104aa3708e",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg",
+                      "middlePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/FnQkK9cs1-Drf4Frnp1MhqSX3uRc.jpg@large",
+                      "width": 3000,
+                      "height": 3000,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "赵小妮儿",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "北京",
+                  "readTrackInfo": {}
+                },
+                {
+                  "uid": "63f79d4bedce67104a0cccc7",
+                  "type": "USER",
+                  "avatar": {
+                    "picture": {
+                      "picUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN",
+                      "middlePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@middle",
+                      "smallPicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@small",
+                      "thumbnailUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@thumbnail",
+                      "largePicUrl": "https://image.xyzcdn.net/Fn9FgXx2PYkDc1thCXkza5a5GLFN@large",
+                      "width": 132,
+                      "height": 132,
+                      "format": "jpeg"
+                    }
+                  },
+                  "nickname": "端端_端姐",
+                  "isNicknameSet": true,
+                  "bio": "",
+                  "gender": "FEMALE",
+                  "isCancelled": false,
+                  "ipLoc": "广东",
+                  "readTrackInfo": {}
+                }
+              ],
+              "hasPopularEpisodes": true,
+              "contacts": [
+                {
+                  "type": "wechat",
+                  "name": "huageng2023",
+                  "note": "加听友群"
+                },
+                {
+                  "type": "email",
+                  "name": "109030424@qq.com",
+                  "note": "商务合作"
+                },
+                {
+                  "type": "custom",
+                  "name": "小红书",
+                  "url": "https://www.xiaohongshu.com/user/profile/5fa21c560000000001009938?xhsshare=CopyLink&appuid=5fa21c560000000001009938&apptime=1686813211"
+                }
+              ],
+              "playTime": 221741988,
+              "showZhuiguangIcon": true
+            },
+            "isPlayed": false,
+            "isFinished": false,
+            "isFavorited": false,
+            "isPicked": false,
+            "permissions": [
+              {
+                "name": "SHARE",
+                "status": "PERMITTED"
+              },
+              {
+                "name": "COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOICE_COMMENT",
+                "status": "DENIED"
+              },
+              {
+                "name": "COMMENT_PAGE",
+                "status": "DENIED"
+              },
+              {
+                "name": "CLAP",
+                "status": "DENIED"
+              },
+              {
+                "name": "PICK",
+                "status": "DENIED"
+              },
+              {
+                "name": "VOTE",
+                "status": "DENIED"
+              },
+              {
+                "name": "AI_SUMMARIZE",
+                "status": "DENIED"
+              }
+            ],
+            "payType": "FREE",
+            "wechatShare": {
+              "style": "LINK_CARD"
+            },
+            "labels": [],
+            "sponsors": [],
+            "isCustomized": false,
+            "ipLoc": "北京",
+            "topicId": "669e53888fcadceb901dfe2a",
+            "transcript": {
+              "mediaId": "648982ea3fa1af37d71277dd/lhmqyDyFCiEz3BnF0ChXV_DoFrko.m4a"
+            }
+          }
+        ]
+      }
+    },
+    "__N_SSG": true
+  }
+}

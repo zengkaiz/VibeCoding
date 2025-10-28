@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(npm install:*)",
+      "Bash(npm cache clean:*)",
+      "Bash(cat:*)",
+      "Bash(node -e:*)",
+      "Bash(node analyze.js:*)",
+      "Bash(node analyze.cjs:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
